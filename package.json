@@ -1,0 +1,28 @@
+{
+  "name": "db-restore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "Buffer": "^0.0.0",
+    "buffer": "^6.0.3",
+    "csv-parser": "^3.0.0",
+    "dotenv": "^16.4.1",
+    "fs": "0.0.1-security",
+    "moment": "^2.29.4",
+    "ton": "^13.9.0",
+    "ton-core": "^0.53.0",
+    "ton-crypto": "^3.2.0",
+    "tonapi-sdk-js": "^1.0.1",
+    "util": "^0.12.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.10",
+    "ts-node": "^10.9.2"
+  }
+}
